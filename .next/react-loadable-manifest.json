@@ -1,0 +1,14 @@
+{
+  "DigitalMarketingBranding.jsx -> @components/sliders/DigitalMarketingBranding": {
+    "id": "DigitalMarketingBranding.jsx -> @components/sliders/DigitalMarketingBranding",
+    "files": [
+      "static/chunks/src_components_sliders_DigitalMarketingBranding_jsx.js"
+    ]
+  },
+  "WebDevelopmment.jsx -> @components/sliders/Projects": {
+    "id": "WebDevelopmment.jsx -> @components/sliders/Projects",
+    "files": [
+      "static/chunks/src_components_sliders_Projects_jsx.js"
+    ]
+  }
+}

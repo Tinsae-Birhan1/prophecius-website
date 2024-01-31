@@ -1,0 +1,34 @@
+{
+    "title": "Meet <br>Our Team",
+    "description": "<p>We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p><p>Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>",
+    "subtitle": "<span class=\"mil-thin\">We</span> deliver <br><span class=\"mil-thin\">exceptional</span> results.",
+    "button": {
+        "link": "/team",
+        "label": "Read more"
+    },
+    "note": "<span class=\"mil-accent\">*</span> The tech team behind Prophecius",
+    "col1_items": [
+        {
+            "image": "/img/faces/Karthik.jpg",
+            "name": "Karthik Varma",
+            "role": "CEO"
+        },
+        {
+            "image": "/img/faces/Tinsu.jpg",
+            "name": "Tinsae Birhan ",
+            "role": "Lead Frontend Developer"
+        }
+    ],
+    "col2_items": [
+        {
+            "image": "/img/faces/Hulu.jpg",
+            "name": "Hulunlante Worku",
+            "role": "Team Lead"
+        },
+        {
+            "image": "/img/faces/Depanjana.jpg",
+            "name": " Dipanjana Gosh ",
+            "role": "Human Resource Manager"
+        }
+    ]
+}
